@@ -6,6 +6,8 @@ Demo makes use of my [audiotools](https://github.com/raccoonML/audiotools) and [
 
 ## Announcements
 
+* 1/5/2022: [Generator-v1](https://github.com/raccoonML/hifigan-demo/releases/tag/Generator-v1), [Generator-v2](https://github.com/raccoonML/hifigan-demo/releases/tag/Generator-v2), and [Generator-v3](https://github.com/raccoonML/hifigan-demo/releases/tag/Generator-v3) released. These are compatible with the pretrained models provided by the hifigan authors.
+
 * 1/4/2022: [MLRTVC-v1 pretrained model](https://github.com/raccoonML/hifigan-demo/releases/tag/MLRTVC-v1) released. This is compatible with the audio settings used in the [RTVC](https://github.com/CorentinJ/Real-Time-Voice-Cloning) and [Multi-Language RTVC](https://github.com/sveneschlbeck/Multi-Language-RTVC) repos. The hifigan model is trained to only 150,000 steps at this time.
 
 ## Windows setup
